@@ -1,0 +1,18 @@
+# Python
+pycache/
+*.py[cod]
+.pytest_cache/
+venv/
+.env
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Environment and secrets
+.env.*
+!.env.example
+
+# Editor
+.vscode/
